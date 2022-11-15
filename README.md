@@ -5,4 +5,4 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 Logo a baixo, execute exercicios que fiz durante o curso !!!
 
-<a href="#">Executar exercicio 001</a> 
+<a href="https://ch-025.github.io/html-css/exercicios/ex001/index.html">Executar exercicio 001</a> 
