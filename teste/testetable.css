@@ -1,0 +1,83 @@
+@charset "UTF-8" ;
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right,rgb(17, 36, 22), rgb(3, 134, 84));
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px black;
+}
+
+h1 {
+    text-align: center;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+h2 {
+    text-align: left;
+    color:red;   
+}
+
+p {
+    text-align: justify;
+    color: blueviolet;
+    font-size: 1em;
+    font-weight: bolder;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 600px;
+    text-align: center;
+    padding: 10px;
+}
+
+.tn {
+    font-weight: bolder;
+}
+
+caption {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    height: 25px;
+    padding-top: 5px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+thead {
+    color: white;
+    background-color: gray;
+}
+
+tbody {
+    color: black;
+    background-color: white;
+}
+
+th, td {
+    border: 3px solid black;
+}
+
+.mh, .me {
+    color: white;
+    background-color: gray;
+    text-align: left;
+}
+
+.mee, .mhh {
+    color: white;
+    background-color: gray;
+    font-weight: bolder;
+}
